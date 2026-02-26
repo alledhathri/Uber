@@ -24,4 +24,4 @@ It was created as a practice project to improve front-end development skills.
 Clone this repository:
 
 ```bash
-git clone https://github.com/alledhathri/Uber-clone.git
+git clone https://github.com/alledhathri/Uber.git
